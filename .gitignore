@@ -45,12 +45,12 @@ logs/
 *.log
 
 # Data
-data/*.json
-data/tmp/*
-data/.locks/*
-app/data/*.json
-app/data/tmp/*
-app/data/.locks/*
+# data/*.json
+# data/tmp/*
+# data/.locks/*
+# app/data/*.json
+# app/data/tmp/*
+# app/data/.locks/*
 
 # Testing
 .pytest_cache/
