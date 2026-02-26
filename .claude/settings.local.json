@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pyenv install 3.13.9)",
+      "Bash(pyenv install --list)",
+      "Bash(pyenv install 3.13.2)",
+      "Bash(pyenv versions)",
+      "Bash(uv pip index versions curl-cffi)",
+      "WebFetch(domain:pypi.org)",
+      "Bash(pip index versions curl-cffi)",
+      "Bash(pip install curl-cffi==)",
+      "Bash(uv sync)"
+    ]
+  }
+}
